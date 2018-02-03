@@ -3,7 +3,13 @@ Mac 入门指南,你值得拥有
 
 最近公司很多小伙伴都换 Mac 了, 刚开始切换到 Mac 多少都会有些不习惯, 固写了一篇指南分享给大家
 
-## Mac 基础使用
+## Table of Contents
+- [Mac 基础使用](#Mac-基础使用)
+- [软件推荐](#软件推荐)
+- [快捷键](#快捷键)
+- [终端命令](#终端命令)
+
+### Mac 基础使用
 
 ### 软件推荐
 - [Alfred][000] : Mac 上提高效率的软件,替代原生 spotlight ;每天打开该软件无数次,您一定得下载这个;
@@ -35,4 +41,4 @@ Mac 入门指南,你值得拥有
 [002]:https://github.com/robbyrussell/oh-my-zsh
 [003]:https://macpaw.com/
 [004]:https://www.macbartender.com/blog/
-[005]:https://
+[005]:https://github.com/ceeyang/MacOSGuide/blob/master/CommandNote.md
