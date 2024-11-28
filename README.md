@@ -15,6 +15,7 @@
 - Command + ] : 在有tab 页面的程序中向右切换 tab; 例如 Chreme, Safari;
 - Option + Command + esc : 当程序未响应后可以打开任务管理界面,选择未响应的应用然后退出;
 - Command + tab : 和 Windows 的 alt + tab 的效果类似;
+- Command + Shift + .: 显示/隐藏 Finder 的隐藏目录;
 
 ## 2. 隐藏功能
 - 按住 Option 键点击菜单栏图标可查看更多选项
